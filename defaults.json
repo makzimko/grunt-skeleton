@@ -1,0 +1,5 @@
+{
+  "configs":  "./grunt/config/*.json",
+  "aliases":  "./grunt/aliases/*.json",
+  "tasks":    "./grunt/tasks"
+}

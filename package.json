@@ -1,0 +1,8 @@
+{
+  "name": "grunt-skeleton",
+  "version": "0.0.1",
+  "main": "grunt-skeleton.js",
+  "devDependencies": {
+    "lodash": "^4.16.3"
+  }
+}
