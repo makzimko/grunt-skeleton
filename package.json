@@ -1,8 +1,22 @@
 {
   "name": "grunt-skeleton",
+  "description": "Skeleton for creating simple grunt tasks structure",
   "version": "0.0.1",
+  "author": "Maxim Tkachuk <uakorn@gmail.com>",
   "main": "grunt-skeleton.js",
   "devDependencies": {
     "lodash": "^4.16.3"
+  },
+  "keywords": [
+    "grunt",
+    "skeleton",
+    "js",
+    "web",
+    "front-end"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makzimko/grunt-skeleton"
   }
 }
