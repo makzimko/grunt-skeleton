@@ -1,7 +1,7 @@
 {
   "name": "grunt-skeleton",
   "description": "Skeleton for creating simple grunt tasks structure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Maxim Tkachuk <uakorn@gmail.com>",
   "main": "grunt-skeleton.js",
   "devDependencies": {
