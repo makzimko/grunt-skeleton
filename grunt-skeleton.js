@@ -69,7 +69,7 @@ function loadAliases() {
         flatten: true,
         ext: ''
     }).forEach(function(alias) {
-        grunt.registerTask(alias.dest, grunt.file.readJSON(configFile.src[0]));
+        grunt.registerTask(alias.dest, grunt.file.readJSON(alias.src[0]));
     });
 }
 
