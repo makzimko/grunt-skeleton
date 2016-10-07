@@ -1,0 +1,10 @@
+{
+  "js": {
+    "src": ["./src/scripts/*.js"],
+    "dest": "./build/precompiled/build.concat.js"
+  },
+  "css": {
+    "src": ["./build/precompiled/css/*.css"],
+    "dest": "./build/precompiled/build.concat.css"
+  }
+}

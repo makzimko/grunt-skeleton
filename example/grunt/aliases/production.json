@@ -1,0 +1,11 @@
+[
+  "jshint:all",
+  "csslint:all",
+  "less:all",
+  "concat:js",
+  "uglify:prod",
+  "concat:css",
+  "cssmin:prod",
+  "copy:prod",
+  "clean:precompiled"
+]

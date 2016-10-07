@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "files": {
+      "./build/dev/build.css": "./build/precompiled/build.concat.css",
+      "./build/dev/build.js": "./build/precompiled/build.concat.js"
+    }
+  },
+  "prod": {
+    "files": {
+      "./build/prod/build.css": "./build/precompiled/build.min.css",
+      "./build/prod/build.js": "./build/precompiled/build.uglify.js",
+      "./build/prod/build.js.map": "./build/precompiled/build.uglify.js.map"
+    }
+  }
+}

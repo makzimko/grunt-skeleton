@@ -1,0 +1,6 @@
+{
+  "prod": {
+    "src": "./build/precompiled/build.concat.css",
+    "dest": "./build/precompiled/build.min.css"
+  }
+}

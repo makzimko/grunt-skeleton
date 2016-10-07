@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "src": ["./build/dev/*"]
+  },
+  "prod": {
+    "src": ["./build/prod/*"]
+  },
+  "precompiled": {
+    "src": ["./build/precompiled"]
+  }
+}

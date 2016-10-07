@@ -1,0 +1,13 @@
+{
+  "all": {
+    "files": [
+      {
+        "expand": true,
+        "cwd": "./src/styles",
+        "src": ["*.less"],
+        "dest": "./build/precompiled/css",
+        "ext": ".css"
+      }
+    ]
+  }
+}

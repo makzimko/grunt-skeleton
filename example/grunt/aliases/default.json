@@ -1,0 +1,10 @@
+[
+  "jshint:all",
+  "csslint:all",
+  "less:all",
+  "concat:js",
+  "concat:css",
+  "clean:dev",
+  "copy:dev",
+  "clean:precompiled"
+]

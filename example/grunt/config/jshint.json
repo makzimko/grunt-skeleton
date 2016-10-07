@@ -1,0 +1,3 @@
+{
+  "all": ["./src/scripts/*.js"]
+}

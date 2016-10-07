@@ -1,0 +1,10 @@
+{
+  "prod": {
+    "options": {
+      "sourceMap": true
+    },
+    "files": {
+      "./build/precompiled/build.uglify.js": "./build/precompiled/build.concat.js"
+    }
+  }
+}

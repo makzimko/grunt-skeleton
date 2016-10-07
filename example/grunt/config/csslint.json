@@ -1,0 +1,5 @@
+{
+  "all": {
+    "src": ["./build/precompiled/css/*.css"]
+  }
+}
